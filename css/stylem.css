@@ -11,6 +11,17 @@ header {
     background-position: center;
 }
 
+@media(max-width: 998px) {
+    html {
+        font-size: 55%;
+    }
+}
+@media(max-width: 768px) {
+    html {
+        font-size: 45%;
+    }
+}
+
 ul {
     list-style-type: none;
     float: right;
