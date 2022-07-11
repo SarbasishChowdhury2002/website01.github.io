@@ -59,6 +59,7 @@ ul li.active a{
     width: 15rem;
     height: auto;
     margin-top: 5rem;
+    margin-left: 0.5rem;
 }
 
 .main {
